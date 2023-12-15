@@ -1,5 +1,4 @@
 
-/* General styling */
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
@@ -10,7 +9,6 @@ body {
 }
 
 
-/* Header styling */
 header {
   background-color: #333;
   color: white;
@@ -18,7 +16,6 @@ header {
   text-align: center;
 }
 
-/* Main container styling */
 .container {
   display: flex;
   flex-direction: column;
@@ -27,7 +24,6 @@ header {
   margin: 2rem;
 }
 
-/* Login and Signup form styling */
 form {
   width: 300px;
   margin: 1rem;
